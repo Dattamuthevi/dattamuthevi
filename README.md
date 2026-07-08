@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg">
 
 <h1 align="center">Hi 👋, I'm Raghu Datta Muthevi</h1>
-<h3 align="center">A passionate Cyber Security Analyst from India</h3>
+<h3 align="center">A passionate Cyber Security Engineer from India</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
